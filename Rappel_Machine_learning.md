@@ -45,9 +45,11 @@
 - Warren et Pitts ont essayé de modéliser ce comportement en supposant qu'un neurone pouvait etre modélisé par une fonction de transfert qui prent en entrée des signaux **X** et qui retourne une sortie **Y**. A l'interieur de cette fonction, il y'a deux grandes étapes. La premiere est une étape d'aggrégation, on fait la somme de toutes les entrées du neurone en multipliant au passage chaque entrée par un coeffiscient W. Ce coeffiscient représente en fait l'activité synaptique:
 
 - Aggrégation: 
-`f = w_1 x_1 + w_2 x_2 + w_3 x_3`
+
+![equation](http://www.sciweavers.org/tex2img.php?eq=f%20%3D%20w_1%20x_1%20%2B%20w_2%20x_2%20%2B%20w_3%20x_3%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 - Activation: 
+
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cbegin%7Bcases%7Dy%3D1%20%26%20f%20%5Cgeq%200%5C%5Cy%3D0%20%26%20f%20%3C%200%5Cend%7Bcases%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 
