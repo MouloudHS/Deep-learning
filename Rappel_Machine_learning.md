@@ -48,8 +48,6 @@
 `f = w_1 x_1 + w_2 x_2 + w_3 x_3`
 
 - Activation: 
-`\left\{ 
-y = 1 si f > 0 \\
-y = 0 sinon
-\right\}`
+![equation](https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20y%20%3D%201%20%5C%3A%5C%3Asi%20f%20%3E%200%20%5C%5C%20y%20%3D%200%20%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%20sinon%20%5Cend%7Bmatrix%7D%5Cright.)
+
 
