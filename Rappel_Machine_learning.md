@@ -48,4 +48,6 @@
 `f = w_1 x_1 + w_2 x_2 + w_3 x_3`
 
 - Activation: 
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cbegin%7Bcases%7Dy%3D1%20%26%20f%20%5Cgeq%200%5C%5Cy%3D0%20%26%20f%20%3C%200%5Cend%7Bcases%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+
+
