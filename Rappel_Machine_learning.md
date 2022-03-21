@@ -48,6 +48,4 @@
 `f = w_1 x_1 + w_2 x_2 + w_3 x_3`
 
 - Activation: 
-![equation](https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20y%20%3D%201%20%5C%3A%5C%3Asi%20f%20%3E%200%20%5C%5C%20y%20%3D%200%20%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%20sinon%20%5Cend%7Bmatrix%7D%5Cright.)
-
-
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
